@@ -1,5 +1,12 @@
 # <p align="center">:date: 2022-05-26 일지 :date: </p>
 
+- 오늘 한 일 세줄 요약
+```
+  1. 서론을 작성하려 하였으나 책 배송이 늦어짐
+  2. 그래서 서론을 대략적으로 작성
+  3. 이왕 쓰는 김에 본론도 쓴 뒤 서론의 내용 더 
+```
+
 ![uu](https://user-images.githubusercontent.com/70933806/170392604-4320e2aa-089c-4ac9-b487-6bed24ef373a.png)  
 ![iii](https://user-images.githubusercontent.com/70933806/170392309-98fef7ab-b159-483a-a454-3333a4b3503b.png)
 ![asdf](https://user-images.githubusercontent.com/70933806/170391752-d3a48dfe-d127-46da-9d99-e0ce81e0ef72.png)
