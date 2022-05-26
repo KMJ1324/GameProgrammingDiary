@@ -1,1 +1,1 @@
-# GameProgrammingDiary
+# 겜프 일지 모음
