@@ -6,3 +6,6 @@
 
 - :link: [06-02 작업 과정](https://github.com/KMJ1324/GameProgrammingDiary/blob/main/Diary/06-02)
 
+
+
+> [지금 작성하고 있는 책의 내용 보러가기](https://github.com/KMJ1324/GameProgrammingDiary/blob/main/ThisIsBook.md)
