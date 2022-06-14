@@ -1,4 +1,4 @@
-# 겜프 일지 모음 :scroll:
+# C# 입문 가이드 교재 제작 프로젝트 :scroll:
 
 ### 앞으로 추가 될 작업 과정들 ( :small_red_triangle_down: 밑 파란 글자 클릭하면 이동 돼요!! :small_red_triangle_down: )
 
